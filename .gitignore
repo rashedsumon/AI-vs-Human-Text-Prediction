@@ -1,0 +1,17 @@
+# Cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/
+
+# Kagglehub cache directories
+.kagglehub/
+~/.cache/kagglehub/
+
+# Saved ML artifacts
+*.joblib
+*.pkl
+
+# Local virtual environment files
+venv/
+.venv/
