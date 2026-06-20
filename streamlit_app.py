@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # App interface headers
-st.title("🤖 AI vs Human Text Classifier")
+st.title("🤖 AI vs Human Text Prediction")
 st.write("Determine if a block of text is human-authored or synthesized by an LLM model.")
 
 # Initialize the machine learning pipeline cache safely
